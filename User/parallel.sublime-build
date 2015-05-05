@@ -1,0 +1,18 @@
+{  
+    "working_dir": "${project_path:${folder}}",
+    "target" : "parallel_builder",
+    
+    "cmd": {
+            
+             "bootstrap.less":{
+                "cmd": ["lessc.cmd", "assets/bootstrap/less/bootstrap.less", "css/bootstrap.css"]   
+            },
+             "project.styl":{
+                "cmd": ["stylus.cmd", "assets/project-css/project.styl", "-o", "css"]   
+            },
+             "project_ie.styl":{
+                "cmd": ["stylus.cmd", "assets/project-css/project_ie.styl", "-o", "css"]   
+            }
+    }
+    
+}

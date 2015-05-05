@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "latest",
+    "project-css": "D:/PRIVATE/levyshev/Dropbox/project/blank/project-css",
+    "bootstrap": "latest"
+  }
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_assets</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.json</scope>
+</snippet>

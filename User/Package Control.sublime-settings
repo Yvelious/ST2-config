@@ -1,0 +1,39 @@
+{
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Bower",
+		"Build on Save",
+		"Build Switcher",
+		"Clipboard History",
+		"CSScomb",
+		"Emmet",
+		"Git",
+		"GoldenRatio",
+		"Goto-CSS-Declaration",
+		"Hayaku - tools for writing CSS faster",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"LESS",
+		"LESS-build",
+		"LiveReload",
+		"Package Control",
+		"Parallel Builder",
+		"SFTP",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeOnSaveBuild",
+		"Terminal",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets"
+	]
+}

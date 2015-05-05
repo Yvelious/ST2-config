@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/theme/Espresso Soda.tmTheme",
+	"font_face": "Meslo LG S",
+	"font_size": 11.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"soda_classic_tabs": true,
+	"theme": "Default.sublime-theme"
+}

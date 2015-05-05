@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+"ignore_regexes": [
+        "\\.sublime-(project|workspace)", "sftp-config(-alt\\?)?\\.json",
+        "sftp-settings\\.json", "/venv/", "\\.svn", "\\.hg", "\\.git",
+        "\\.bzr", "_darcs", "CVS", "\\.DS_Store", "Thumbs\\.db", "desktop\\.ini"
+    ],
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_ftp__ignore</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.json</scope>
+</snippet>
